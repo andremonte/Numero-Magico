@@ -43,7 +43,7 @@ int main(int argc, char *argv[]) {
 
 				cout << endl <<"Deseja continuar? (s/n)";
 				cin >> continuar; //Recebe a resposta se o usuário quer continuar jogando ou não.
-								  //Se ele responder 'n' a condição do primeiro while loop é quebrada, encerrando-o.
+						  //Se ele responder 'n' a condição do primeiro while loop é quebrada, encerrando-o.
 			}
 			
 		}
